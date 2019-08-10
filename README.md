@@ -1,6 +1,6 @@
 # Emilio's notes (8/9/2019)
 
-I forked this repo from https://github.com/ericmjl/minimal-panel-app. The author posted instructions at https://ericmjl.github.io/blog/2019/7/26/pyviz-panel-apps/. The only thing I changed was https://github.com/emiliom/minimal-panel-app/blob/master/Procfile, to rename the Heroku app to a new unique subdomain: https://panel-app-sample1.herokuapp.com. Everything below is from the original README.md.
+I forked this repo from https://github.com/ericmjl/minimal-panel-app. The author posted instructions at https://ericmjl.github.io/blog/2019/7/26/pyviz-panel-apps/. The only thing I changed was [Procfile](https://github.com/emiliom/minimal-panel-app/blob/master/Procfile), to rename the Heroku app to a new unique subdomain: https://panel-app-sample1.herokuapp.com. Everything below is from the original README.md.
 
 
 # minimal-panel-app
